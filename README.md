@@ -8,13 +8,13 @@ Solution for ZenClass Db design
 6. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
 
 Src folder contains the json files for 
--users
--codekata
--attendance
--topics
--tasks
--company_drives
--mentors
+  -users
+  -codekata
+  -attendance
+  -topics
+  -tasks
+  -company_drives
+  -mentors
 
 InsertionQueries file contains how the data get inserted in to the db.
 Solution file contains the task solution-  mongosh commands.
