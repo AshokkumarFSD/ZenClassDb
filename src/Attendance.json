@@ -1,0 +1,3786 @@
+[
+    {
+        "date": "2020-10-01",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-02",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":false
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":false
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":false
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":false
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":false
+            }
+        ]
+    },
+    {
+        "date": "2020-10-05",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":false
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":false
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":false
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":false
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-06",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":false
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":false
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":false
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":false
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-07",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":false
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":false
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":false
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":false
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-08",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":false
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":false
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":false
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":false
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-09",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":false
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":false
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":false
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":false
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-12",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-13",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":false
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":false
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":false
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":false
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":false
+            }
+        ]
+    },
+    {
+        "date": "2020-10-14",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":false
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":false
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":false
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":false
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-15",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":false
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":false
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":false
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":false
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-16",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":false
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":false
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":false
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":false
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-19",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":false
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":false
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":false
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":false
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-20",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":false
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":false
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":false
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":false
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-22",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":false
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":false
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":false
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":false
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":false
+            }
+        ]
+    },
+    {
+        "date": "2020-10-23",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":false
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":false
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":false
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":false
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-26",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":false
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":false
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":false
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":false
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-27",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":false
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":false
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":false
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":false
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-28",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":false
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":false
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":false
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":false
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-29",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":false
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":false
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":false
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":false
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    },
+    {
+        "date": "2020-10-30",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":true
+            },
+            {
+                "userId": 2,
+                "status":true
+            },
+            {
+                "userId": 3,
+                "status":true
+            },
+            {
+                "userId": 4,
+                "status":true
+            },
+            {
+                "userId": 5,
+                "status":true
+            },
+            {
+                "userId": 6,
+                "status":true
+            },
+            {
+                "userId": 7,
+                "status":true
+            },
+            {
+                "userId": 8,
+                "status":true
+            },
+            {
+                "userId": 9,
+                "status":true
+            },
+            {
+                "userId": 10,
+                "status":true
+            },
+            {
+                "userId": 11,
+                "status":true
+            },
+            {
+                "userId": 12,
+                "status":true
+            },
+            {
+                "userId": 13,
+                "status":true
+            },
+            {
+                "userId": 14,
+                "status":true
+            },
+            {
+                "userId": 15,
+                "status":true
+            },
+            {
+                "userId": 16,
+                "status":true
+            },
+            {
+                "userId": 17,
+                "status":true
+            },
+            {
+                "userId": 18,
+                "status":true
+            },
+            {
+                "userId": 19,
+                "status":true
+            },
+            {
+                "userId": 20,
+                "status":true
+            },
+            {
+                "userId": 21,
+                "status":true
+            },{
+                "userId": 22,
+                "status":true
+            },
+            {
+                "userId": 23,
+                "status":true
+            },
+            {
+                "userId": 24,
+                "status":true
+            },
+            {
+                "userId": 25,
+                "status":true
+            },
+            {
+                "userId": 26,
+                "status":true
+            },
+            {
+                "userId": 27,
+                "status":true
+            },
+            {
+                "userId": 28,
+                "status":true
+            },
+            {
+                "userId": 29,
+                "status":true
+            },
+            {
+                "userId": 30,
+                "status":true
+            },
+            {
+                "userId": 31,
+                "status":true
+            },
+            {
+                "userId": 32,
+                "status":true
+            },
+            {
+                "userId": 33,
+                "status":true
+            },
+            {
+                "userId": 34,
+                "status":true
+            },
+            {
+                "userId": 35,
+                "status":true
+            },
+            {
+                "userId": 36,
+                "status":true
+            },
+            {
+                "userId": 37,
+                "status":true
+            },
+            {
+                "userId": 38,
+                "status":true
+            },
+            {
+                "userId": 39,
+                "status":true
+            },
+            {
+                "userId": 40,
+                "status":true
+            },
+            {
+                "userId": 41,
+                "status":true
+            },
+            {
+                "userId": 42,
+                "status":true
+            }
+        ]
+    }
+]

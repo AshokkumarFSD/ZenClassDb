@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "taskName": "HTML day 1 task",
+    "date": "2020-10-01"
+  },
+  {
+    "id": 2,
+    "taskName": "HTML day 2 task",
+    "date": "2020-10-02"
+  },
+  {
+    "id": 3,
+    "taskName": "HTML day 3 task",
+    "date": "2020-10-05"
+  },
+  {
+    "id": 4,
+    "taskName": "CSS day 1 task",
+    "date": "2020-10-06"
+  },
+  {
+    "id": 5,
+    "taskName": "CSS day 2 task",
+    "date": "2020-10-07"
+  },
+  {
+    "id": 6,
+    "taskName": "Bootstrap day 1 task",
+    "date": "2020-10-08"
+  },
+  {
+    "id": 7,
+    "taskName": "Bootstrap day 2 task",
+    "date": "2020-10-09"
+  },
+  {
+    "id": 8,
+    "taskName": "Javascript day 1 task",
+    "date": "2020-10-12"
+  },
+  {
+    "id": 9,
+    "taskName": "Javascript day 2 task",
+    "date": "2020-10-13"
+  },
+  {
+    "id": 10,
+    "taskName": "Javascript day 3 task",
+    "date": "2020-10-14"
+  },
+  {
+    "id": 11,
+    "taskName": "Javascript day 4 task",
+    "date": "2020-10-15"
+  },
+  {
+    "id": 12,
+    "taskName": "Javascript day 5 task",
+    "date": "2020-10-16"
+  },
+  {
+    "id": 13,
+    "taskName": "React day 1 task",
+    "date": "2020-10-19"
+  },
+  {
+    "id": 14,
+    "taskName": "React day 2 task",
+    "date": "2020-10-20"
+  },
+  {
+    "id": 15,
+    "taskName": "React day 3 task",
+    "date": "2020-10-21"
+  },
+  {
+    "id": 16,
+    "taskName": "SQL day 1 task",
+    "date": "2020-10-22"
+  },
+  {
+    "id": 17,
+    "taskName": "SQL day 2 task",
+    "date": "2020-10-23"
+  },
+  {
+    "id": 18,
+    "taskName": "MongoDB day 1 task",
+    "date": "2020-10-26"
+  },
+  {
+    "id": 19,
+    "taskName": "MongoDB day 2 task",
+    "date": "2020-10-27"
+  },
+  {
+    "id": 20,
+    "taskName": "Node day 1 task",
+    "date": "2020-10-28"
+  },
+  {
+    "id": 21,
+    "taskName": "Node day 2 task",
+    "date": "2020-10-29"
+  },
+  {
+    "id": 22,
+    "taskName": "Node day 3 task",
+    "date": "2020-10-30"
+  }
+]

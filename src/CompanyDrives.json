@@ -1,0 +1,170 @@
+[
+    {
+        "companyName":"Flipkart",
+        "location":"Chennai",
+        "designation":"Full stack developer",
+        "date": "2020-10-01",
+        "attendees": [
+            {
+                "userId": 1,
+                "status":"Selected"
+            },
+            {
+                "userId": 2,
+                "status":"Selected"
+            },
+            {
+                "userId": 3,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 4,
+                "status":"Selected"
+            },
+            {
+                "userId": 5,
+                "status":"Not Selected"
+            }
+        ]
+    },
+    {
+        "companyName":"Amazon",
+        "location":"Chennai",
+        "designation":"Full stack developer",
+        "date": "2020-10-05",
+        "attendees": [
+            {
+                "userId": 6,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 7,
+                "status":"Selected"
+            },
+            {
+                "userId": 8,
+                "status":"Selected"
+            },
+            {
+                "userId": 9,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 10,
+                "status":"Selected"
+            }
+        ]
+    },
+    {
+        "companyName":"Mytra",
+        "location":"Bangalore",
+        "designation":"Full stack developer",
+        "date": "2020-10-15",
+        "attendees": [
+            {
+                "userId": 11,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 12,
+                "status":"Selected"
+            },
+            {
+                "userId": 13,
+                "status":"Selected"
+            },
+            {
+                "userId": 14,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 15,
+                "status":"Selected"
+            }
+        ]
+    },
+    {
+        "companyName":"FreshWorks",
+        "location":"Chennai",
+        "designation":"Full stack developer",
+        "date": "2020-10-19",
+        "attendees": [
+            {
+                "userId": 16,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 17,
+                "status":"Selected"
+            },
+            {
+                "userId": 18,
+                "status":"Selected"
+            },
+            {
+                "userId": 19,
+                "status":"Selected"
+            },
+            {
+                "userId": 20,
+                "status":"Not Selected"
+            }
+        ]
+    },
+    {
+        "companyName":"Google",
+        "location":"Hyderbad",
+        "designation":"Full stack developer",
+        "date": "2020-10-21",
+        "attendees": [
+            {
+                "userId": 21,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 22,
+                "status":"Selected"
+            },
+            {
+                "userId": 23,
+                "status":"Selected"
+            },
+            {
+                "userId": 24,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 25,
+                "status":"Not Selected"
+            }
+        ]
+    },
+    {
+        "companyName":"Meta",
+        "location":"Bangalore",
+        "designation":"Full stack developer",
+        "date": "2020-10-22",
+        "attendees": [
+            {
+                "userId": 26,
+                "status":"Not Selected"
+            },
+            {
+                "userId": 27,
+                "status":"Selected"
+            },
+            {
+                "userId": 28,
+                "status":"Selected"
+            },
+            {
+                "userId": 29,
+                "status":"Selected"
+            },
+            {
+                "userId": 30,
+                "status":"Selected"
+            }
+        ]
+    }
+]
