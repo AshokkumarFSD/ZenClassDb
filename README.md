@@ -17,4 +17,4 @@ company_drives
 mentors
 
 InsertionQueries file contains how the data get inserted in to the db.
-Solution file contains the task solution.
+Solution file contains the task solution-  mongosh commands.
